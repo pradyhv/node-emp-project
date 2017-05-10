@@ -1,1 +1,2 @@
-# node-emp-project
+# emp-mean-app
+Employee Directory App - MEAN Stack - Pradyumna
